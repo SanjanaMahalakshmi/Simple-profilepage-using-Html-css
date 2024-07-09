@@ -1,0 +1,8 @@
+.container img,h2,h1{
+    display: flex;
+    justify-content: center;
+    
+}
+body{
+    background-color: lightblue;
+}
